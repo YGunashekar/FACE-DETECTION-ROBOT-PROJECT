@@ -20,7 +20,7 @@ This project is a **real-time face detection system** that can be integrated int
 2. Each frame is converted to grayscale (as face detection works better in monochrome).
 3. The Haar cascade classifier scans for patterns resembling a human face.
 4. If faces are found, rectangles are drawn on the video stream.
-5. MY BAD I LOST ALL THESE PROJECT FILES BUT I WAS OFFICILLY DONE IN COLLEGE .
+5. MY BAD I LOST ALL THESE PROJECT FILES BUT I WAS OFFICIALLY DONE IN COLLEGE .
 
 ### 📦 Dependencies
 Install OpenCV using pip:
