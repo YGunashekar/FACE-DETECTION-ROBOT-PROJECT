@@ -25,3 +25,7 @@ This project is a **real-time face detection system** that can be integrated int
 Install OpenCV using pip:
 ```bash
 pip install opencv-python
+
+
+
+MY BAD I LOST ALL THESE PROJECT FILES BUT I WAS OFFICILLY DONE IN COLLEGE . 
